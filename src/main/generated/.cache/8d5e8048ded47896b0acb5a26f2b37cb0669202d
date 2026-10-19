@@ -1,0 +1,11 @@
+// 26.3	-999999999-01-01T00:00:00	Doudou/TemplateModRecipeProvider
+27c50df3db03593742a2471bae8d5f5fae5f953f data/doudou/advancement/recipes/decorations/bat_doudou.json
+efcf5ac80af2c70e91c3fda0f9f10a5f0af55217 data/doudou/advancement/recipes/decorations/bee_doudou.json
+d7ba1e43a6334ec457356db5dddeba132fee9315 data/doudou/advancement/recipes/decorations/chicken_doudou.json
+7958e76f664ab55f07e449e04213c462f1562d01 data/doudou/advancement/recipes/decorations/dolphin_doudou.json
+5fc890a068946d2f58ea4d651c5745020e9ae57a data/doudou/advancement/recipes/decorations/rabbit_doudou.json
+98f739538fb68a3ff825c5134ca0c6a1f4190f29 data/doudou/recipe/bat_doudou.json
+83909457205e08dc93b81bbfb79ec6a674e07ee4 data/doudou/recipe/bee_doudou.json
+6ca607121a4e7f9c2b0b8b4afc382bc4cc35b6ec data/doudou/recipe/chicken_doudou.json
+c7022c1e0ab3552d7ad6a96c8ea6c7451a40ccb4 data/doudou/recipe/dolphin_doudou.json
+f53f11b4f623f8b93307a38b19151338d0bd822e data/doudou/recipe/rabbit_doudou.json

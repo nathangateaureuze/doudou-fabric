@@ -1,0 +1,11 @@
+// 26.3	-999999999-01-01T00:00:00	Doudou/Model Definitions
+d850cd3a9e00e7ed51f60961b9800bb758dd1a7f assets/doudou/blockstates/bat_doudou.json
+d343f5f2ba7064980e26acf26ce24a62dd33882c assets/doudou/blockstates/bee_doudou.json
+5086c67932643e2251c20c5e157bacb6dcaa7ef6 assets/doudou/blockstates/chicken_doudou.json
+8d6c817c1e883fb2fdc64079dc414f3f76526a81 assets/doudou/blockstates/dolphin_doudou.json
+949a5df01f984e148200c88872b3763ef8e3e09d assets/doudou/blockstates/rabbit_doudou.json
+1cf0441ef16ea281c3a8fc555c4ef8807ca14611 assets/doudou/items/bat_doudou.json
+125e4a150f74c8b52f24413c47c4b52b311ca053 assets/doudou/items/bee_doudou.json
+d763418d40dc903c8e912181b0a1bd841746e581 assets/doudou/items/chicken_doudou.json
+329c25edc65bbfe540e36a33928eddf7b4719ff6 assets/doudou/items/dolphin_doudou.json
+115c442e4d2d07abfd1d8cf53b98f1d63f8f3d06 assets/doudou/items/rabbit_doudou.json

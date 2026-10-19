@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:rabbit_foot",
+    "#minecraft:wool",
+    "#minecraft:wool",
+    "minecraft:string",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "doudou:rabbit_doudou"
+  }
+}

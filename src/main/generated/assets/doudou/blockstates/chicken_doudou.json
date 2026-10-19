@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "doudou:block/chicken_doudou",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "doudou:block/chicken_doudou"
+    },
+    "facing=south": {
+      "model": "doudou:block/chicken_doudou",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "doudou:block/chicken_doudou",
+      "y": 270
+    }
+  }
+}

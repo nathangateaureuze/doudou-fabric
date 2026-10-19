@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "doudou:block/bee_doudou",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "doudou:block/bee_doudou"
+    },
+    "facing=south": {
+      "model": "doudou:block/bee_doudou",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "doudou:block/bee_doudou",
+      "y": 270
+    }
+  }
+}

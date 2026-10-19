@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "doudou",
+	"version": "${version}",
+	"name": "Doudou",
+	"description": "This mod adds plushies to put on beds",
+	"authors": [
+		"Baobab"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/doudou/",
+		"sources": "https://github.com/nathangateaureuze/doudou-fabric/"
+	},
+	"license": "MIT",
+	"icon": "assets/doudou/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.baobab.doudou.Doudou"
+		],
+		"client": [
+			"dev.baobab.doudou.client.DoudouClient"
+		],
+		"fabric-datagen": [
+			"dev.baobab.doudou.client.DoudouDataGenerator"
+		]
+	},
+	"mixins": [
+		"doudou.mixins.json",
+		{
+			"config": "doudou.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

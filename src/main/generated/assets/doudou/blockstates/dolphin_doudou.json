@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "doudou:block/dolphin_doudou",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "doudou:block/dolphin_doudou"
+    },
+    "facing=south": {
+      "model": "doudou:block/dolphin_doudou",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "doudou:block/dolphin_doudou",
+      "y": 270
+    }
+  }
+}
