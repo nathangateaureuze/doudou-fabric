@@ -2,6 +2,12 @@
 
 # Doudou
 
+## Usage
+
+Doudous are craftable with basic materials.\
+[_right-click_] on a bed to place them,\
+[_SHIFT+right-click_] with an **empty hand** to retrieve them.
+
 This is a Minecraft mod for version ~26.3 using Fabric >=0.19.5
 
 ## Effects
